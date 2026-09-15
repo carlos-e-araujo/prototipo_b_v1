@@ -1,0 +1,13 @@
+ticket_id,texto_cliente,categoria_problema,status_atendimento
+DEMO-001,"Meu pedido aparece como enviado, mas ainda não chegou. Podem orientar como acompanhar?",acompanhamento de pedido,Aberto
+DEMO-002,"Comprei há alguns dias e gostaria de saber onde verifico o andamento da entrega.",acompanhamento de pedido,Em Análise
+DEMO-003,"O produto chegou com uma peça quebrada. Como devo enviar uma foto para avaliação?",defeito,Aberto
+DEMO-004,"Recebi o item e percebi uma avaria na embalagem e no produto.",defeito,Escalado para N2
+DEMO-005,"A camiseta ficou pequena. Quais informações preciso enviar para solicitar troca?",troca de tamanho,Aberto
+DEMO-006,"Preciso trocar o tamanho do tênis, mas não sei qual é o procedimento.",troca de tamanho,Em Análise
+DEMO-007,"Meu cartão foi recusado no checkout mesmo tendo limite disponível.",pagamento não aprovado,Aberto
+DEMO-008,"Tentei finalizar a compra duas vezes e o pagamento não foi aprovado.",pagamento não aprovado,Resolvido
+DEMO-009,"Gostaria de saber se este produto é compatível com tomada de 220 volts.",dúvida técnica,Aberto
+DEMO-010,"O manual não deixa claro como configurar a função principal do aparelho.",dúvida técnica,Em Análise
+DEMO-011,"A entrega chegou antes do esperado e o atendimento foi excelente. Obrigado!",elogio,Resolvido
+DEMO-012,"Adorei a qualidade do produto e a experiência de compra.",elogio,Resolvido
